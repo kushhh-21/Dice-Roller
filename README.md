@@ -15,3 +15,9 @@ The Dice Roller app is a simple mobile application built with Flutter that allow
    ```bash
    git clone https://github.com/yourusername/dice_roller_app.git
    ```
+
+2. Navigate to the project directory;
+
+   ```bash
+   cd dice_roller_app
+   ```
