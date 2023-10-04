@@ -51,6 +51,10 @@ The Dice Roller app is a simple mobile application built with Flutter that allow
 
 - Use the rolled number for your games, decisions, or any other purposes that require a random element.
 
+## Screenshot
+
+[!Dice-Roller](assets/images/Dice-Roller.png)
+
 ## Contact
 
 - If you have any questions, suggestions, or feedback, feel free to contact us at <kush.rajpal.21@gmail.com>.
