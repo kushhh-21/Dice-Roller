@@ -53,7 +53,7 @@ The Dice Roller app is a simple mobile application built with Flutter that allow
 
 ## Screenshot
 
-[!Dice-Roller](assets/images/Dice-Roller.png)
+![Dice-Roller](assets/images/Dice-Roller.png)
 
 ## Contact
 
